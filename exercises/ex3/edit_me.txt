@@ -1,0 +1,10 @@
+Exercise 3 (first part)
+=======================
+
+Edit the contents of the file edit_me.txt, adding a new line containing the phrase “I did it, using option (_)!” using either
+
+- a) cat and output redirection
+- b) nano
+- c) The built-in JupyterHub text editor
+
+This, of course, is edit_me.txt
