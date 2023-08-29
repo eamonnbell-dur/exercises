@@ -1,0 +1,20 @@
+{
+  "name": "Eamonn",
+  "age": 32,
+  "car": true,
+  "pets": [
+    {
+      "name": "flossie",
+      "age": 4
+    },
+    {
+      "name": "patch",
+      "age": 11
+    }
+  ],
+  "favourite_things": {
+    "colour": "red",
+    "number": 1,
+    "drink": "tamarind soda"
+  }
+}
